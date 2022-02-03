@@ -5,7 +5,7 @@ FastScroll is an [AutoHotKey](https://www.autohotkey.com) script.
 1. Download `AutoHotKey` from [here](https://www.autohotkey.com/download/ahk.zip) and extract it.
 2. Download `FastScroll.ahk` from [here](https://github.com/daniel-barbu/VolumeKeys/releases/download/v1.0/FastScroll.ahk).
 3. Run `FastScroll.ahk` and/or place it in the `Startup` folder.
-4. I recommend you use this in combination with a mouse key rebind software.
+4. I recommend you use this in combination with a mouse with onboard memory so you don't have to run macro software.  
 
 ### Controls
 |                  |             |
